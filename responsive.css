@@ -1,0 +1,98 @@
+@media (max-width: 500px) {
+   /* s1 */
+.s1elem{
+    width: 100%;
+}
+.s1 h1{
+    font-size: 2rem;
+}
+.s1 p{
+    font-size: 1rem;
+}
+/* s2 */
+.sec{
+    padding: 1rem;
+}
+.secTop{
+    margin: 4vh 0 ;
+    text-align: center;
+}
+.secTop h1{
+    font-size: 2rem;
+}
+.secTop p{
+    width: 100%;
+}
+/* .s2bottom{
+} */
+
+.s2card{
+    width: 200px;
+    padding: 20px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.s2card h1{
+    width: 60%;
+    padding-top:20px ; 
+    /* background-color: #fff; */
+}
+/* s3 */
+
+.s3bottom{
+    flex-direction: column;
+    align-items: center;
+}
+.s3card{
+    width: 100%;
+    /* display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;   */
+}
+.s3card img{
+    width: 200px;
+    height: 200px;
+}
+.s3card p{
+padding: 0 20px ;
+}
+
+/* s5 */
+.s5bottom{
+   
+}
+.s5bElem{
+    /* align-items: center; */
+}
+.s5bElem p{
+    text-align: start;
+}
+.s5bElem img{
+    width: 1rem;
+    height: 1rem;
+}
+/* s6 */
+.s6bottom{
+    padding: 0;
+    margin: 0;
+}
+.slide{
+    margin: 0;
+    padding: 0;
+}
+/* s7 */
+.s7{
+    padding: 1rem ;
+}
+
+.s7t{ 
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.s7t p{
+}
+
+}
+
